@@ -1,11 +1,11 @@
 # Hi, I'm Aditya 👋
 
-I am an engineering student / developer focused on the intersection of **Embedded Systems**, **Control Theory**, and **Applied Machine Learning**. I enjoy modeling physical systems mathematically and writing the software to make them work.
+I am an engineering student focused on the intersection of **Embedded Systems**, **Control Theory**, and **Applied Machine Learning**. 
 
 ### 🛠️ Tech Stack & Tools
 
 * **Languages:** Python, MATLAB, Assembly (ARM Cortex-M4), HTML
-* **Domains:** Embedded Firmware, Battery Management Systems (BMS), Computer Vision, Control Loop Simulation
+* **Domains:** Embedded Firmware, Computer Vision, Control Loop Simulation
 * **Environments:** QEMU Emulator, Jupyter Notebooks, Simulink
 
 ---
