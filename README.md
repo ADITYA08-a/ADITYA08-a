@@ -28,5 +28,5 @@ I am an engineering student focused on the intersection of **Embedded Systems**,
 
 ### 📬 Connect with me
 
-* **Portfolio:** [Personal Website Source Code](https://github.com)
+* **Portfolio:** [Personal Website](https://github.com)
 * **GitHub:** [@ADITYA08-a](https://github.com)
